@@ -5,4 +5,5 @@ return(
   <CalculatorApp/>
   </>
   )
-}
+};
+export default App();
